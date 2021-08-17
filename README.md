@@ -19,7 +19,7 @@ The code should run with no issues using Python versions 3.*.
 ### Note:
 > You might find some challenges installing `fiona` and `pandas_profiling`.
 > `pandas_profiling` requires Microsoft Visual C++ 14.0 or greater. Get it with "Microsoft C++ Build Tools" [here](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
-> Due to challenges in istalling `fiona`, both `pip` and `pipwin` are used to install required libraries. The work around for `fiona` is as per [StackOverflow](https://stackoverflow.com/questions/54734667/error-installing-geopandas-a-gdal-api-version-must-be-specified-in-anaconda#:~:text=87,uninstall)%20and%20reinstalling)
+> Due to challenges in istalling `fiona`, both `pip` and `pipwin` are used to install required libraries. The work around for `fiona` is as per [StackOverflow]<https://stackoverflow.com/questions/54734667/error-installing-geopandas-a-gdal-api-version-must-be-specified-in-anaconda#:~:text=87,uninstall)%20and%20reinstalling>
 
 ### Option 1:
 If in a windows environment, run the commands in the setup.bat file one by one, from creating virtual environment to launching jupyter notebook.
@@ -52,7 +52,7 @@ The data used is in the `data` folder consisting of:
 > - `reviews.csv` (not used in this notebook)
 
 The comlete directory structure is something as below:
-![Project Directory Structure](./images/working_dir_structure.png?raw=true "Structure")
+![Project Directory Structure](https://github.com/Bboofs/Seattle-Airbnb/blob/main/images/working_dir_structure.png?raw=true)
 
 ## Results<a name="results"></a>
 
